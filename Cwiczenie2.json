@@ -1,0 +1,12 @@
+{
+	"id" : "1",
+	"tytul" : "Polska za 100 lat",
+	"tresc" : "Polska za 100 lat będzie krajem...",
+	"data_publikacji" : "2012-04-23T18:25:43.511Z",
+	"tagi" : ["historia","Polska","przewidywania"],
+	"ilosc_polubien" : 10,
+	"autor" : {
+		"imie" : "Michał",
+		"nazwisko" : "Szymański"
+	}
+}

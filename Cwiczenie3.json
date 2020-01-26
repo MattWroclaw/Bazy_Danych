@@ -1,0 +1,16 @@
+{
+	"id": "1",
+	"nazwa_portu": "Gdańsk",
+	"numer_stanowiska": "1",
+	"wynik_kontroli": "true",
+	"data_kontroli": "2012-04-23T18:25:43.511Z",
+	"straznik": {
+		"imie": "Jan",
+		"nazwisko": "Kowalski",
+		"stopien": "szeregowy"
+	},
+	"pasazer": {
+		"imie": "Jan",
+		"nazwisko": "Kowalski"
+	}
+}
